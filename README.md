@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Im poochfuni 
 Airdrop hunter | Web3 explorer<br>Building trust through research & community growth | gaming
 
 
