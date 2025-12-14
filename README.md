@@ -1,39 +1,35 @@
-# 💫 Im poochfuni 
-Airdrop hunter | Web3 explorer<br>Building trust through research & community growth | gaming
+# 👋 I'm poochfuni
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/poochfuni) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/poochfuni) 
-
-# 💻 Tech Stack:
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=flat-square&logo=epicgames&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=flat-square&logo=affinity-photo&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=flat-square&logo=esbuild&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=poochfuni&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=poochfuni&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=poochfuni&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=poochfuni&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🪂 **Airdrop Hunter | Web3 Explorer**  
+🔍 Researching early-stage crypto & testnets  
+🌐 DeFi • On-chain activity • Community growth
 
 ---
-[![](https://visitcount.itsvg.in/api?id=poochfuni&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+## 🌐 Socials
+[![poochfuni](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
+[![poochfuni](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 
-<!--
-**poochfuni/poochfuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat&logo=github&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-1E1E1E?style=flat&logo=solidity&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=flat&logo=web3dotjs&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-00FFA3?style=flat&logo=ethereum&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=poochfuni&show_icons=true&theme=tokyonight)
+
+---
+
+## 🧠 Focus Areas
+- Airdrop hunting & testnet participation  
+- On-chain wallet activity  
+- Early Web3 & DeFi research  
+
+🚀 Always early. Always learning.
